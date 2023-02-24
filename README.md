@@ -1,3 +1,3 @@
 # DontTouchTheSpikes
-Clone of DontTouchTheSpikes. Everything is described in [Documentation](https://linktodocumentation)
+Clone of DontTouchTheSpikes. Everything is described in [documentation](https://linktodocumentation)
 
